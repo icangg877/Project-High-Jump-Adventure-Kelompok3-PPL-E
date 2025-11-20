@@ -9,7 +9,7 @@ kemudian push tersebut
 - git push origin main
 Selesai...
 
-#update project / Cara pull (update file terbaru)
+# update project / Cara pull (update file terbaru)
 1. git pull origin main
 2. edit file di lokal
 3. git add .
