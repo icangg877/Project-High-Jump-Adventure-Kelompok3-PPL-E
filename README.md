@@ -7,7 +7,7 @@ kemudian push tersebut
 - gid add .
 - git commit -m "update asset" (isi nama keterangan push tersebut)
 - git push origin main
-Selesai...
+- Selesai...
 
 # update project / Cara pull (update file terbaru)
 1. git pull origin main
